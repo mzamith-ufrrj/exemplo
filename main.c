@@ -4,7 +4,7 @@
 #include <string.h>
 
 
-
+//Teste
 int main (int ac, char **av){
 
     //int mem[] = {2, 2, 0, 1, 1, 2, 2, 1, 2};
